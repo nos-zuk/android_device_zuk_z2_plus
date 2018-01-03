@@ -31,6 +31,13 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/audio/audio_platform_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_platform_info.xml \
     $(LOCAL_PATH)/audio/mixer_paths_tasha.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths.xml
 
+# AR Core
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.config.calibration_cad=/system/etc/calibration_cad.xml
+
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/configs/calibration_cad.xml:system/etc/calibration_cad.xml
+
 # Lights
 PRODUCT_PACKAGES += \
     lights.msm8996
