@@ -17,6 +17,8 @@
 TARGET_SCREEN_WIDTH := 1080
 TARGET_SCREEN_HEIGHT := 1920
 
+TARGET_INCLUDE_ARCORE := true
+
 # Enable dexpreopt to speed boot time
 WITH_DEXPREOPT := true
 DONT_DEXPREOPT_PREBUILTS := true
