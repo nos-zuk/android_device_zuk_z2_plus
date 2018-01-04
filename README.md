@@ -24,4 +24,4 @@ Lenovo Z2 Plus was announced in September 2016. Release date was September 2016.
 
 ## Device picture
 
-![Lenovo ZUK Z2](http://www.zukmobile.cc/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo_zuk_z2_black_01.png "ZUK Z2 in Titanium Black")
+![Lenovo ZUK Z2](http://www.mobile2go.com.my/content/images/thumbs/0000706_lenovo-zuk-z2-z2131-64gb-rom4gb-ram-original-import-set.jpeg "ZUK Z2 Black + White")
