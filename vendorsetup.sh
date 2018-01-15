@@ -1,2 +1,1 @@
-add_lunch_combo aosip_z2_plus-userdebug
-add_lunch_combo aosip_z2_plus-eng
+add_lunch_combo nitrogen_z2_plus-userdebug
