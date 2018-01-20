@@ -45,10 +45,6 @@ DEVICE_PACKAGE_OVERLAYS += \
 # Missing Dependencies
 ALLOW_MISSING_DEPENDENCIES := true
 
-# GoogleCamera
-PRODUCT_PACKAGES += \
-    GoogleCamera
-
 # Apn from marlin
 PRODUCT_COPY_FILES := device/zuk/z2_plus/configs/apns-full-conf.xml:system/etc/apns-conf.xml
 
@@ -58,6 +54,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 
 # Inherit some common Nitrogen stuff.
 $(call inherit-product, vendor/nitrogen/products/common.mk)
+$(call inherit-product, vendor/nitrogen/config/utils.mk)
 
 # Inherit from z2_plus device
 $(call inherit-product, device/zuk/z2_plus/device.mk)
