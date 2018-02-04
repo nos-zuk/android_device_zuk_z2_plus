@@ -544,4 +544,21 @@
 
   <string name="qs_tile_title_visibility_title">Títulos na QS</string>
   <string name="qs_tile_title_visibility_summary">Exibir títulos de ícones em configurações rápidas</string>
+  
+  <!-- Less Notification sounds -->
+  <string name="less_notification_sounds_title">Sons de notificação menos frequentes</string>
+  <string name="less_notification_sounds_summary">Reproduz o som de notificação de cada aplicativo apenas uma vez por período de tempo definido</string>
+  <string name="less_notification_sounds_default">Comportamento Padrão</string>
+  <string name="less_notification_sounds_3s">A cada 3 segundos</string>
+  <string name="less_notification_sounds_5s">A cada 5 segundos</string>
+  <string name="less_notification_sounds_10s">A cada 10 segundos</string>
+  <string name="less_notification_sounds_15s">A cada 15 segundos</string>
+  <string name="less_notification_sounds_30s">A cada 30 segundos</string>
+  <string name="less_notification_sounds_45s">A cada 45 segundos</string>
+  <string name="less_notification_sounds_1m">A cada 1 minuto</string>
+  <string name="less_notification_sounds_2m">A cada 2 minutos</string>
+  <string name="less_notification_sounds_5m">A cada 5 minutos</string>
+
+  <string name="face_auto_unlock_title">Desbloqueio facial</string>
+  <string name="face_auto_unlock_summary">Descartar tela de bloqueio após desbloqueio facial</string>
 </resources>
